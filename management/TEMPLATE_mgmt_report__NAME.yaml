@@ -1,6 +1,6 @@
 # Magagment week end report
-manager_name: ""
-week: 1
+manager_name: "Zirui Huang"
+week: 4
 # Specific goals:
 goal:
   - desc: ""
@@ -10,10 +10,44 @@ goal:
     prs: []
     status: ""
 # Team member evalution
-team_members:
-  PITTIDHERE:
+team_members: Daniel Stirling, 
+  PITTIDHERE: dgs36
+    score: 1
+    desc: ""
+    
+team_member: Marshall Lentz
+  PITTIDHERE: mal341
+    score: 1
+    desc: ""
+
+team_members: Yihua Pu
+  PITTIDHERE: yip11
     score: 0
     desc: ""
-  PITTIDHERE:
+
+team_members: Joshua Friedman
+  PITTIDHERE: jmf206
     score: 0
     desc: ""
+    
+team_members: Adam Wachowicz
+  PITTIDHERE: Amw298
+    score: 1
+    desc: ""
+    
+team_members: Zirui Huang
+  PITTIDHERE: zih17
+    score: 0
+    desc: ""
+    
+team_members: Davon Allensworth
+  PITTIDHERE: dja52
+    score: 0
+    desc: "" 
+    
+team_members: Victor Mui
+  PITTIDHERE: vim43
+    score: 0
+    desc: ""
+    
+    
