@@ -2,52 +2,84 @@
 manager_name: "Zirui Huang"
 week: 4
 # Specific goals:
-goal:
-  - desc: ""
-    prs: []
-    status: ""
-  - desc: ""
-    prs: []
-    status: ""
+goal: 
+  - desc: "implemented frame independent movement of player, Melee attack cooldown and damage, Ranged attack cooldown, damage, and speed
+    status: "accomplished"
+  - desc: "implemented basic health bar, money, mana, and equipped weapons and abilities display"
+    status: "accomplished"
+  - desc: "implemented range enemey and player's range attack"
+    status: "accomplished"
+  - desc: "finished Procedural Generation Team presentation outline; began generation algorithm" 
+    status: "accomplished"
+   
 # Team member evalution
 team_members: Daniel Stirling, 
   PITTIDHERE: dgs36
     score: 1
-    desc: ""
+    prs: Added frame independent attack animation 
+         Made room for UI and added hearts and a coin
+         Added enemy types (ranged vs melee) and helped implement the ranged enemy
+         Made random obstacles and changed how background is displayed to prevent lag
+         Prevent enemies from killing player and other various bugs
+    
+    desc: " Hard-working. I think he implemented lots of challenging and heavy work, and I think he is smart. "
     
 team_member: Marshall Lentz
   PITTIDHERE: mal341
     score: 1
-    desc: ""
+    prs: Implemented frame-independent movement, melee cooldown and raged cooldown
+         Implemented mana system
+         Worked on the outline for the presentation
+         Helped debug enemies dropping coins
+         
+    desc: "Hard-working and smart. I think he is very good at coding and managed to contribute a lot for the project."
 
 team_members: Yihua Pu
   PITTIDHERE: yip11
     score: 0
-    desc: ""
+    prs: Animation for an ability, health UI; updated tiles
+    desc: "Positive and active. I think he is good at making art and often actively participate in group discussion. He made the game look more beautiful."
 
 team_members: Joshua Friedman
   PITTIDHERE: jmf206
-    score: 0
-    desc: ""
+    score: -1
+    prs: Helped add elements to UI
+    desc: "Positive. I think he is also passionate about making contribution for the game and tries to help other members. "
     
 team_members: Adam Wachowicz
   PITTIDHERE: Amw298
     score: 1
-    desc: ""
+    prs: Added cooldown
+         Fixed half heart health system
+         Worked on player ranged attack; Work on projectile.rs 
+         
+    desc: " Hard-working and helpful. I think he is a smart and capable programmer, and he often helps others to solve problems."
     
 team_members: Zirui Huang
   PITTIDHERE: zih17
     score: 0
-    desc: ""
+    prs: Created sword art and implemented sword swing animation
+         Created ui.rs and basic ui setup and created a heart
+         Fixed attack box issue
+         
+    desc: "I will say I am hard-working and very eager to make contribution, but honestly, I am not as capable as some of the members. Although it may take me much
+            time to deal with minor issues, I still make some contributions to the project."
     
 team_members: Davon Allensworth
   PITTIDHERE: dja52
     score: 0
-    desc: "" 
+    prs: Started a data structure Gameinfo.rs
+         Implemented projectiles and attacks 
+         
+    desc: " Hard-working. I think he is also a capable programmer, and he manage to fix challenges with other members." 
     
 team_members: Victor Mui
   PITTIDHERE: vim43
     score: 0
-    desc: ""
+    prs: Added invincibility timer
+         Added coin drop on enemy death
+         Dynamic hp bar but overwritten by half heart system 
+         
+    desc: "Diligent and active. I think he has a great skill and manage to fix problems alone or with others."
     
     
